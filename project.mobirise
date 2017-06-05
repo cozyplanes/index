@@ -839,7 +839,7 @@
           },
           "title": "LocaSend",
           "text": "<b>Share your location instantly.<br>PUBLIC BETA VERSION.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"github.com/cozyplanes/LocaSend/releases/download/v0.1-beta.1/app-debug.apk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR ANDROID<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://github.com/cozyplanes/LocaSend/archive/v0.1-beta.1.zip\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD SOURCE CODE &nbsp; (.ZIP)<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://github.com/cozyplanes/downloads.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a> "
         },
         {
           "_styles": {
@@ -1135,7 +1135,7 @@
           },
           "title": "Token Share",
           "text": "<b>Talk - n - Share</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"github.com/cozyplanes/LocaSend/releases/download/v0.1-beta.1/app-debug.apk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR ANDROID<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://github.com/cozyplanes/LocaSend/archive/v0.1-beta.1.zip\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD SOURCE CODE &nbsp; (.ZIP)<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://github.com/cozyplanes/downloads.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD<br></a> "
         },
         {
           "_styles": {
@@ -1433,7 +1433,7 @@
           },
           "title": "covfefe - Chrome Extension",
           "text": "<b>COFFEE TIME?</b><br><b>COVFEFE TIME!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"github.com/cozyplanes/LocaSend/releases/download/v0.1-beta.1/app-debug.apk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR CHROMIUM DESKTOP<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://github.com/cozyplanes/LocaSend/archive/v0.1-beta.1.zip\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD SOURCE CODE &nbsp; (.ZIP)<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://github.com/cozyplanes/downloads.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD<br></a> "
         },
         {
           "_styles": {
